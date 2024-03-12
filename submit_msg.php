@@ -9,7 +9,7 @@ $subject = $_POST['subject'];
 $msg = $_POST['msg'];
 
 
-$sToken = "OLbZ6wbZQGIM8YZlUYwDI5tSX8sgp2cXrlSGIgtw9Ty";
+$sToken = "Your line token";
 $sMessage .= "\n" . "มีปัญหารายงานเข้ามา!" . "\n";
 $sMessage .= "ชื่อ: " . $fname . "\n";
 $sMessage .= "นามสกุล: " . $lname . "\n";
